@@ -1,0 +1,44 @@
+{
+    "console_double_click_select": true,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "initial_working_directory": "~/github",
+    "soft_wrap_r_files": true,
+    "highlight_selected_line": true,
+    "show_invisibles": true,
+    "show_indent_guides": true,
+    "blinking_cursor": false,
+    "syntax_color_console": true,
+    "scroll_past_end_of_document": true,
+    "highlight_r_function_calls": true,
+    "default_encoding": "UTF-8",
+    "font_size_points": 14,
+    "editor_theme": "Xcode",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "TabSet1",
+            "TabSet2",
+            "Source",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": false
+    }
+}
