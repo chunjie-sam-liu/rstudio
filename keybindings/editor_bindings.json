@@ -1,6 +1,6 @@
 {
-  "fold": "Cmd+[",
-  "foldall": "Alt+Cmd+[",
-  "unfold": "Cmd+]",
-  "unfoldall": "Alt+Cmd+]"
+    "fold": "Cmd+[",
+    "foldall": "Alt+Cmd+[",
+    "unfold": "Cmd+]",
+    "unfoldall": "Alt+Cmd+]"
 }
