@@ -1,8 +1,8 @@
 {
-  "commentUncomment": "Ctrl+/",
-  "reflowComment": "Ctrl+/",
-  "fold": "Ctrl+[",
-  "foldAll": "Alt+Ctrl+[",
-  "unfold": "Ctrl+]",
-  "unfoldAll": "Alt+Ctrl+]"
+  "commentUncomment": "Cmd+/",
+  "reflowComment": "Cmd+/",
+  "fold": "Cmd+[",
+  "foldAll": "Alt+Cmd+[",
+  "unfold": "Cmd+]",
+  "unfoldAll": "Alt+Cmd+]"
 }
