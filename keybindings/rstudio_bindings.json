@@ -4,5 +4,6 @@
     "fold": "Cmd+[",
     "foldAll": "Alt+Cmd+[",
     "unfold": "Cmd+]",
-    "unfoldAll": "Alt+Cmd+]"
+    "unfoldAll": "Alt+Cmd+]",
+    "goToFileFunction": "Cmd+."
 }
