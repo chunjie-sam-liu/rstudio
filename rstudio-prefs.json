@@ -17,8 +17,8 @@
     "posix_terminal_shell": "bash",
     "panes": {
         "quadrants": [
-            "TabSet1",
             "TabSet2",
+            "TabSet1",
             "Source",
             "Console"
         ],
