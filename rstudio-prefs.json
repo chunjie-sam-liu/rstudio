@@ -24,18 +24,18 @@
         ],
         "tabSet1": [
             "Environment",
-            "History",
+            "Files",
             "Connections",
-            "Build",
-            "VCS",
+            "Packages",
+            "Help",
             "Tutorial",
             "Presentation"
         ],
         "tabSet2": [
-            "Files",
+            "History",
             "Plots",
-            "Packages",
-            "Help",
+            "Build",
+            "VCS",
             "Viewer"
         ],
         "console_left_on_top": false,
