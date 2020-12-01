@@ -23,7 +23,6 @@
             "Console"
         ],
         "tabSet1": [
-            "Environment",
             "Files",
             "Connections",
             "Packages",
@@ -32,6 +31,7 @@
             "Presentation"
         ],
         "tabSet2": [
+            "Environment",
             "History",
             "Plots",
             "Build",
