@@ -1,6 +1,4 @@
 {
-    "commentUncomment": "Cmd+/",
-    "reflowComment": "Cmd+/",
     "fold": "Cmd+[",
     "foldAll": "Alt+Cmd+[",
     "unfold": "Cmd+]",
