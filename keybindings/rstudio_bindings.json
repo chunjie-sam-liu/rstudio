@@ -3,5 +3,6 @@
     "foldAll": "Alt+Cmd+[",
     "unfold": "Cmd+]",
     "unfoldAll": "Alt+Cmd+]",
-    "goToFileFunction": "Cmd+."
+    "goToFileFunction": "Cmd+.",
+    "commentUncomment": "Cmd+/"
 }
