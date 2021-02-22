@@ -40,5 +40,6 @@
         ],
         "console_left_on_top": false,
         "console_right_on_top": false
-    }
+    },
+    "auto_save_on_blur": true
 }
