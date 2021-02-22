@@ -17,10 +17,10 @@
     "posix_terminal_shell": "bash",
     "panes": {
         "quadrants": [
-            "TabSet2",
-            "TabSet1",
             "Source",
-            "Console"
+            "Console",
+            "TabSet2",
+            "TabSet1"
         ],
         "tabSet1": [
             "Files",
@@ -38,8 +38,30 @@
             "VCS",
             "Viewer"
         ],
+        "hiddenTabSet": [],
         "console_left_on_top": false,
+<<<<<<< HEAD
         "console_right_on_top": false
     },
     "auto_save_on_blur": true
+=======
+        "console_right_on_top": true,
+        "additional_source_columns": 1
+    },
+    "tab_key_move_focus": true,
+    "show_last_dot_value": true,
+    "always_save_history": false,
+    "continue_comments_on_newline": true,
+    "rainbow_parentheses": true,
+    "auto_save_on_blur": true,
+    "show_help_tooltip_on_idle": true,
+    "tab_multiline_completion": true,
+    "code_completion_delay": 100,
+    "limit_visible_console": true,
+    "auto_expand_error_tracebacks": true,
+    "code_completion_characters": 2,
+    "python_type": "virtualenv",
+    "python_version": "3.8.5",
+    "python_path": "/opt/virtualenvs/r-tensorflow/bin/python"
+>>>>>>> ae40011dc1ebda63647aa5a1bb92322eb28aa459
 }
