@@ -57,5 +57,7 @@
     "code_completion_characters": 2,
     "python_type": "virtualenv",
     "python_version": "3.8.5",
-    "python_path": "/opt/virtualenvs/r-tensorflow/bin/python"
+    "python_path": "/opt/virtualenvs/r-tensorflow/bin/python",
+    "server_editor_font_enabled": true,
+    "server_editor_font": "Menlo"
 }
