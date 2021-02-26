@@ -46,7 +46,6 @@
     "tab_key_move_focus": true,
     "show_last_dot_value": true,
     "always_save_history": false,
-    "continue_comments_on_newline": true,
     "rainbow_parentheses": true,
     "auto_save_on_blur": true,
     "show_help_tooltip_on_idle": true,
@@ -59,5 +58,7 @@
     "python_version": "3.8.5",
     "python_path": "/opt/virtualenvs/r-tensorflow/bin/python",
     "server_editor_font_enabled": true,
-    "server_editor_font": "Menlo"
+    "server_editor_font": "Menlo",
+    "source_with_echo": true,
+    "jobs_tab_visibility": "shown"
 }
