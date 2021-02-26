@@ -53,7 +53,6 @@
     "code_completion_delay": 100,
     "limit_visible_console": true,
     "auto_expand_error_tracebacks": true,
-    "code_completion_characters": 2,
     "python_type": "virtualenv",
     "python_version": "3.8.5",
     "python_path": "/opt/virtualenvs/r-tensorflow/bin/python",
