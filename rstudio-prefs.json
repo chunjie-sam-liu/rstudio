@@ -59,5 +59,7 @@
     "python_version": "3.8.5",
     "python_path": "/opt/virtualenvs/r-tensorflow/bin/python",
     "server_editor_font_enabled": true,
-    "server_editor_font": "Menlo"
+    "server_editor_font": "Menlo",
+    "source_with_echo": true,
+    "jobs_tab_visibility": "shown"
 }
