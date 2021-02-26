@@ -46,7 +46,6 @@
     "tab_key_move_focus": true,
     "show_last_dot_value": true,
     "always_save_history": false,
-    "continue_comments_on_newline": true,
     "rainbow_parentheses": true,
     "auto_save_on_blur": true,
     "show_help_tooltip_on_idle": true,
